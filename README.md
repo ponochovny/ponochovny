@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ponochovny
-- 🌱 I’m currently learning React/Nextjs/Vue/Nuxtjs + Typescript/MongoDB/Firebase/GraphQL
+- 🌱 I’m currently practicing React/Nextjs/Vue/Nuxtjs + Typescript/MongoDB/GraphQL
 
 <!---
 ponochovny/ponochovny is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
