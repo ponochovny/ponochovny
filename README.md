@@ -1,7 +1,10 @@
-- 👋 Hi, I’m @ponochovny
-- 🌱 I’m currently working with React/Vue + TypeScript stacks
-- 🕹️ Headless CMS (Sanity, Strapi)
-- ✨ Landing pages + Animations
+👋 Hi, I’m @ponochovny
+
+🌱 I’m currently working with React/Vue + TypeScript stacks
+
+🕹️ Headless CMS (Sanity, Strapi)
+
+✨ Landing pages + Animations
 
 <!---
 ponochovny/ponochovny is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
